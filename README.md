@@ -5,3 +5,6 @@
 # How to use
  Install python then download the latest version of cbos then run install.cmd (it installs essential libraries)
  Then type `help` while in cbos
+
+# Deprecated
+ This repo is deprecated! Please visit [the new repo.](https://github.com/The-Puppet-Studios/C-Bos)
